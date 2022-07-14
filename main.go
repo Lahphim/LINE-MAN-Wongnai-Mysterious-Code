@@ -16,6 +16,8 @@ func main() {
 	whatIsIt = string(sd)
 
 	fmt.Println(whatIsIt)
+	
+	// Answer: iangnoW:NAM:ENIL:ta:su:nioJ
 }
 
 
